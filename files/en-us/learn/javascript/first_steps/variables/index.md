@@ -222,7 +222,7 @@ myAge = 40;
 You can call a variable pretty much anything you like, but there are limitations. Generally, you should stick to just using Latin characters (0-9, a-z, A-Z) and the underscore character.
 
 - You shouldn't use other characters because they may cause errors or be hard to understand for an international audience.
-- Don't use underscores at the start of variable names — this is used in certain JavaScript constructs to mean specific things, so may get confusing.
+- Don't use underscores at the start of variable names — this is used in certain JavaScript constructs to mean specific things, so it may get confusing.
 - Don't use numbers at the start of variables. This isn't allowed and causes an error.
 - A safe convention to stick to is so-called ["lower camel case"](https://en.wikipedia.org/wiki/CamelCase#Variations_and_synonyms), where you stick together multiple words, using lower case for the whole first word and then capitalize subsequent words. We've been using this for our variable names in the article so far.
 - Make variable names intuitive, so they describe the data they contain. Don't just use single letters/numbers, or big long phrases.
